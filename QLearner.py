@@ -20,9 +20,9 @@ students of CS 7646 is prohibited and subject to being investigated as a
 GT honor code violation.  		   	  			    		  		  		    	 		 		   		 		  
   		   	  			    		  		  		    	 		 		   		 		  
 -----do not edit anything above this line---
-Student Name: Patrick Baginski (replace with your name)
-GT User ID: pbaginski3
-GT ID: 903383289 (replace with your GT ID)
+Student Name:   (replace with your name)
+GT User ID: 
+GT ID:  (replace with your GT ID)
 """
 
 import numpy as np
@@ -54,7 +54,7 @@ class QLearner(object):
         self.num_a = self.num_actions - 1
 
     def author(self):
-        return "pbaginski3"
+        return ""
 
     def querysetstate(self, s):
         """
